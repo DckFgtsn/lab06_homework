@@ -1,0 +1,17 @@
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles/rebuild_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_application/CMakeFiles/equation.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_application/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_application/CMakeFiles/rebuild_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application/CMakeFiles/hello_world.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application/CMakeFiles/rebuild_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_lib/CMakeFiles/solver.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_lib/CMakeFiles/edit_cache.dir
+/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_lib/CMakeFiles/rebuild_cache.dir
