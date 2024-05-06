@@ -1,4 +1,4 @@
-# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab03/hello_world_application
+# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab06/hello_world_application
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

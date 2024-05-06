@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/../formatter_ex_lib -I/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/../solver_lib
+CXX_INCLUDES = -I/home/tony/DckFgtsn/workspace/tasks/lab06/solver_application/../formatter_ex_lib -I/home/tony/DckFgtsn/workspace/tasks/lab06/solver_application/../solver_lib
 
 CXX_FLAGS = -std=gnu++11
 

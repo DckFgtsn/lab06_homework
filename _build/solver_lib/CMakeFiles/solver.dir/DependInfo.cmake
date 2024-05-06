@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/tony/DckFgtsn/workspace/tasks/lab03/solver_lib/solver.cpp" "solver_lib/CMakeFiles/solver.dir/solver.cpp.o" "gcc" "solver_lib/CMakeFiles/solver.dir/solver.cpp.o.d"
+  "/home/tony/DckFgtsn/workspace/tasks/lab06/solver_lib/solver.cpp" "solver_lib/CMakeFiles/solver.dir/solver.cpp.o" "gcc" "solver_lib/CMakeFiles/solver.dir/solver.cpp.o.d"
   )
 
 # Targets to which this target links.

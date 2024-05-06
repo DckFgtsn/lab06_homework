@@ -1,4 +1,4 @@
-# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab03/formatter_ex_lib/formatter_lib
+# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab06/formatter_ex_lib/formatter_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

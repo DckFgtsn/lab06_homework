@@ -1,7 +1,7 @@
 formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir/formatter.cpp.o: \
- /home/tony/DckFgtsn/workspace/tasks/lab03/formatter_ex_lib/formatter_lib/formatter.cpp \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/formatter_ex_lib/formatter_lib/formatter.cpp \
  /usr/include/stdc-predef.h \
- /home/tony/DckFgtsn/workspace/tasks/lab03/formatter_ex_lib/formatter_lib/formatter.h \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/formatter_ex_lib/formatter_lib/formatter.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

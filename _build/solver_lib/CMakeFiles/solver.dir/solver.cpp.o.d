@@ -1,7 +1,7 @@
 solver_lib/CMakeFiles/solver.dir/solver.cpp.o: \
- /home/tony/DckFgtsn/workspace/tasks/lab03/solver_lib/solver.cpp \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/solver_lib/solver.cpp \
  /usr/include/stdc-predef.h \
- /home/tony/DckFgtsn/workspace/tasks/lab03/solver_lib/solver.h \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/solver_lib/solver.h \
  /usr/include/c++/11/stdexcept /usr/include/c++/11/exception \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

@@ -1,5 +1,5 @@
 solver_application/CMakeFiles/equation.dir/equation.cpp.o: \
- /home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/equation.cpp \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/solver_application/equation.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -144,5 +144,5 @@ solver_application/CMakeFiles/equation.dir/equation.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/../formatter_ex_lib/formatter_ex.h \
- /home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/../solver_lib/solver.h
+ /home/tony/DckFgtsn/workspace/tasks/lab06/solver_application/../formatter_ex_lib/formatter_ex.h \
+ /home/tony/DckFgtsn/workspace/tasks/lab06/solver_application/../solver_lib/solver.h

@@ -1,4 +1,4 @@
-# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab03/formatter_ex_lib
+# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab06/formatter_ex_lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/formatter_lib/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/cmake_install.cmake")
 
 endif()
 

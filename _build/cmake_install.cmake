@@ -1,4 +1,4 @@
-# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab03
+# Install script for directory: /home/tony/DckFgtsn/workspace/tasks/lab06
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,10 +44,10 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/tony/DckFgtsn/workspace/tasks/lab03/_build/formatter_ex_lib/cmake_install.cmake")
-  include("/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_application/cmake_install.cmake")
-  include("/home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application/cmake_install.cmake")
-  include("/home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_lib/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/cmake_install.cmake")
 
 endif()
 
@@ -59,5 +59,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/tony/DckFgtsn/workspace/tasks/lab03/_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/tony/DckFgtsn/workspace/tasks/lab06/_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tony/DckFgtsn/workspace/tasks/lab03
+CMAKE_SOURCE_DIR = /home/tony/DckFgtsn/workspace/tasks/lab06
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tony/DckFgtsn/workspace/tasks/lab03/_build
+CMAKE_BINARY_DIR = /home/tony/DckFgtsn/workspace/tasks/lab06/_build
 
 # Include any dependencies generated for this target.
 include hello_world_application/CMakeFiles/hello_world.dir/depend.make
@@ -72,16 +72,16 @@ include hello_world_application/CMakeFiles/hello_world.dir/flags.make
 hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o: hello_world_application/CMakeFiles/hello_world.dir/flags.make
 hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o: ../hello_world_application/hello_world.cpp
 hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o: hello_world_application/CMakeFiles/hello_world.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o"
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o -MF CMakeFiles/hello_world.dir/hello_world.cpp.o.d -o CMakeFiles/hello_world.dir/hello_world.cpp.o -c /home/tony/DckFgtsn/workspace/tasks/lab03/hello_world_application/hello_world.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o"
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.o -MF CMakeFiles/hello_world.dir/hello_world.cpp.o.d -o CMakeFiles/hello_world.dir/hello_world.cpp.o -c /home/tony/DckFgtsn/workspace/tasks/lab06/hello_world_application/hello_world.cpp
 
 hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_world.dir/hello_world.cpp.i"
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tony/DckFgtsn/workspace/tasks/lab03/hello_world_application/hello_world.cpp > CMakeFiles/hello_world.dir/hello_world.cpp.i
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/tony/DckFgtsn/workspace/tasks/lab06/hello_world_application/hello_world.cpp > CMakeFiles/hello_world.dir/hello_world.cpp.i
 
 hello_world_application/CMakeFiles/hello_world.dir/hello_world.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_world.dir/hello_world.cpp.s"
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tony/DckFgtsn/workspace/tasks/lab03/hello_world_application/hello_world.cpp -o CMakeFiles/hello_world.dir/hello_world.cpp.s
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/tony/DckFgtsn/workspace/tasks/lab06/hello_world_application/hello_world.cpp -o CMakeFiles/hello_world.dir/hello_world.cpp.s
 
 # Object files for target hello_world
 hello_world_OBJECTS = \
@@ -95,18 +95,18 @@ hello_world_application/hello_world: hello_world_application/CMakeFiles/hello_wo
 hello_world_application/hello_world: formatter_ex_lib/libformatter_ex.a
 hello_world_application/hello_world: formatter_ex_lib/formatter_lib/libformatter.a
 hello_world_application/hello_world: hello_world_application/CMakeFiles/hello_world.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable hello_world"
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_world.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable hello_world"
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_world.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 hello_world_application/CMakeFiles/hello_world.dir/build: hello_world_application/hello_world
 .PHONY : hello_world_application/CMakeFiles/hello_world.dir/build
 
 hello_world_application/CMakeFiles/hello_world.dir/clean:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application && $(CMAKE_COMMAND) -P CMakeFiles/hello_world.dir/cmake_clean.cmake
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application && $(CMAKE_COMMAND) -P CMakeFiles/hello_world.dir/cmake_clean.cmake
 .PHONY : hello_world_application/CMakeFiles/hello_world.dir/clean
 
 hello_world_application/CMakeFiles/hello_world.dir/depend:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tony/DckFgtsn/workspace/tasks/lab03 /home/tony/DckFgtsn/workspace/tasks/lab03/hello_world_application /home/tony/DckFgtsn/workspace/tasks/lab03/_build /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application /home/tony/DckFgtsn/workspace/tasks/lab03/_build/hello_world_application/CMakeFiles/hello_world.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/tony/DckFgtsn/workspace/tasks/lab06 /home/tony/DckFgtsn/workspace/tasks/lab06/hello_world_application /home/tony/DckFgtsn/workspace/tasks/lab06/_build /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/hello_world.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : hello_world_application/CMakeFiles/hello_world.dir/depend
 

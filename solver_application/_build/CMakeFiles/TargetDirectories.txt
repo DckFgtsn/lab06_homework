@@ -1,9 +1,0 @@
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/_build/CMakeFiles/equation.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/_build/CMakeFiles/edit_cache.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/_build/CMakeFiles/rebuild_cache.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/CMakeFiles/formatter_ex.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/CMakeFiles/edit_cache.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/CMakeFiles/rebuild_cache.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/formatter_lib/CMakeFiles/formatter.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/formatter_lib/CMakeFiles/edit_cache.dir
-/home/tony/DckFgtsn/workspace/tasks/lab03/solver_application/solver_lib/formatter_lib/CMakeFiles/rebuild_cache.dir

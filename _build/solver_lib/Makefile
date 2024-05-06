@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/tony/DckFgtsn/workspace/tasks/lab03
+CMAKE_SOURCE_DIR = /home/tony/DckFgtsn/workspace/tasks/lab06
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/tony/DckFgtsn/workspace/tasks/lab03/_build
+CMAKE_BINARY_DIR = /home/tony/DckFgtsn/workspace/tasks/lab06/_build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles /home/tony/DckFgtsn/workspace/tasks/lab03/_build/solver_lib//CMakeFiles/progress.marks
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/tony/DckFgtsn/workspace/tasks/lab03/_build/CMakeFiles 0
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(CMAKE_COMMAND) -E cmake_progress_start /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib//CMakeFiles/progress.marks
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/clean
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,22 +103,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/preinstall
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/preinstall
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 solver_lib/CMakeFiles/solver.dir/rule:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/CMakeFiles/solver.dir/rule
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver_lib/CMakeFiles/solver.dir/rule
 .PHONY : solver_lib/CMakeFiles/solver.dir/rule
 
 # Convenience name for target.
@@ -127,7 +127,7 @@ solver: solver_lib/CMakeFiles/solver.dir/rule
 
 # fast build rule for target.
 solver/fast:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/build
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/build
 .PHONY : solver/fast
 
 solver.o: solver.cpp.o
@@ -135,7 +135,7 @@ solver.o: solver.cpp.o
 
 # target to build an object file
 solver.cpp.o:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.o
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.o
 .PHONY : solver.cpp.o
 
 solver.i: solver.cpp.i
@@ -143,7 +143,7 @@ solver.i: solver.cpp.i
 
 # target to preprocess a source file
 solver.cpp.i:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.i
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.i
 .PHONY : solver.cpp.i
 
 solver.s: solver.cpp.s
@@ -151,7 +151,7 @@ solver.s: solver.cpp.s
 
 # target to generate assembly for a file
 solver.cpp.s:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.s
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(MAKE) $(MAKESILENT) -f solver_lib/CMakeFiles/solver.dir/build.make solver_lib/CMakeFiles/solver.dir/solver.cpp.s
 .PHONY : solver.cpp.s
 
 # Help Target
@@ -177,6 +177,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/tony/DckFgtsn/workspace/tasks/lab03/_build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/tony/DckFgtsn/workspace/tasks/lab06/_build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 
