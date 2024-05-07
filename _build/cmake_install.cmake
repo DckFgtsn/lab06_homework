@@ -48,6 +48,8 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/cmake_install.cmake")
   include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/cmake_install.cmake")
   include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/cmake_install.cmake")
+  include("/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/cmake_install.cmake")
 
 endif()
 

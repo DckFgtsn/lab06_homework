@@ -22,3 +22,16 @@ add_subdirectory(./formatter_ex_lib)
 add_subdirectory(./solver_application)
 add_subdirectory(./hello_world_application)
 add_subdirectory(./solver_lib)
+add_subdirectory(./tests)
+
+include_directories(${CMAKE_CURRENT_SOURCE_DIR}/formatter_ex_lib
+		${CMAKE_CURRENT_SOURCE_DIR}/solver_lib)
+
+if(BUILD_TESTS)
+  enable_testing()
+  add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/third-party/gtest)
+  file(GLOB ${PROJECT_NAME}_TEST_SOURCES tests/*.cpp)
+  add_executable(check ${${PROJECT_NAME}_TEST_SOURCES})
+  target_link_libraries(check formatter_ex solver gtest_main)
+  add_test(NAME check COMMAND check)
+endif()

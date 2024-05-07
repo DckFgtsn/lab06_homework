@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/check.dir/tests/tits.cpp.o -o check  formatter_ex_lib/libformatter_ex.a solver_lib/libsolver.a lib/libgtest_main.a formatter_ex_lib/formatter_lib/libformatter.a lib/libgtest.a 
