@@ -4,3 +4,6 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_library(formatter STATIC formatter.cpp)
+
+install(TARGETS formatter DESTINATION lib)
+install(FILES formatter.h DESTINATION include)

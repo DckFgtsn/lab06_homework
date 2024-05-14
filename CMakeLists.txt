@@ -35,3 +35,5 @@ if(BUILD_TESTS)
   target_link_libraries(check formatter_ex solver gtest_main)
   add_test(NAME check COMMAND check)
 endif()
+
+include(CPackConfig.cmake)

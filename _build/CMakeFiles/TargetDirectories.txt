@@ -1,4 +1,6 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/check.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/rebuild_cache.dir
@@ -7,6 +9,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
@@ -15,6 +19,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/formatter.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/rebuild_cache.dir
@@ -23,6 +29,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/formatter_ex_lib/formatter_lib/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/equation.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/rebuild_cache.dir
@@ -31,6 +39,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_application/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/hello_world.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/rebuild_cache.dir
@@ -39,6 +49,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/hello_world_application/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/solver.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/rebuild_cache.dir
@@ -46,6 +58,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/install.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/solver_lib/CMakeFiles/install/strip.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/rebuild_cache.dir
@@ -53,6 +67,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/install.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/install/local.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/tests/CMakeFiles/install/strip.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/rebuild_cache.dir
@@ -62,6 +78,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/gmock.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/gmock_main.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/rebuild_cache.dir
@@ -71,6 +89,8 @@
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googlemock/CMakeFiles/install/strip.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/gtest.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/gtest_main.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/package.dir
+/home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/package_source.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/test.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/edit_cache.dir
 /home/tony/DckFgtsn/workspace/tasks/lab06/_build/third-party/gtest/googletest/CMakeFiles/rebuild_cache.dir
