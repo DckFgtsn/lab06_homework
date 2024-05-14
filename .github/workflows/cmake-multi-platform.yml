@@ -61,3 +61,10 @@ jobs:
       working-directory: ${{ steps.strings.outputs.build-output-dir }}
 
       run: ctest --build-config ${{ matrix.build_type }}
+      
+    - name: Archivation
+
+      run: |
+        cd ${{ steps.strings.outputs.build-output-dir }} && cpack -G "TGZ"
+
+
