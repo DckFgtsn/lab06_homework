@@ -1,10 +1,9 @@
 ## Homework
 1. По аналогии с предыдущими проектами прописал файлы CMakeLists.txt
-2. добавил:
+2. добавил в основной CMakeLists.txt:
 ```sh
 include(CPackConfig.cmake)
 ```
-в основной CMakeLists.txt
 3. В остальных CMakeLists.txt добавил:
 # solver lib
 ```sh
